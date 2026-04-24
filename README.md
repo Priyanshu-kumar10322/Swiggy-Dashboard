@@ -43,9 +43,4 @@ If you are exploring this repository, the main objectives of the code and dashbo
 ## 🛠️ Tools & Technologies Used
 * **Data Processing:** Python (Pandas, NumPy) / Excel 
 * **Data Visualization:** Matplotlib, Seaborn, or BI Tools (Tableau/PowerBI based on the `Dashboard.csv` and `Chart.csv` exports)
-* **Environment:** Jupyter Notebooks
-
-## 🚀 How to Use This Repository
-1. Clone the repository to your local machine:
-   ```bash
-   git clone [https://github.com/YourUsername/Swiggy-Data-Analysis.git](https://github.com/YourUsername/Swiggy-Data-Analysis.git)
+* **Environment:** Jupyter Notebooks. 
