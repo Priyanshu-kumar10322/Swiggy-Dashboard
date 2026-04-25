@@ -40,7 +40,3 @@ If you are exploring this repository, the main objectives of the code and dashbo
 3. **Price vs. Rating Correlation:** Determine if higher-priced items yield better or worse customer satisfaction.
 4. **Day-of-Week Trends:** Analyze whether weekends significantly out-perform weekdays in order volume.
 
-## 🛠️ Tools & Technologies Used
-* **Data Processing:** Python (Pandas, NumPy) / Excel 
-* **Data Visualization:** Matplotlib, Seaborn, or BI Tools (Tableau/PowerBI based on the `Dashboard.csv` and `Chart.csv` exports)
-* **Environment:** Jupyter Notebooks. 
